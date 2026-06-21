@@ -114,7 +114,7 @@
 
 Примеры:
 ```bash
-/grantlicense Kris stone
+/grantlicense bscbg stone
 /grantlicense 76561198209258869 armored
 /grantlicense SomeName metal
 ```
